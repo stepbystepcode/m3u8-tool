@@ -1,0 +1,10 @@
+/Users/stepbystep/Documents/m3u8-tool/frontend/src-tauri/target/debug/deps/libcargo_toml-af056b73469e3e52.rmeta: /Users/stepbystep/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_toml-0.15.3/src/cargo_toml.rs /Users/stepbystep/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_toml-0.15.3/src/afs.rs /Users/stepbystep/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_toml-0.15.3/src/error.rs /Users/stepbystep/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_toml-0.15.3/src/inheritable.rs
+
+/Users/stepbystep/Documents/m3u8-tool/frontend/src-tauri/target/debug/deps/libcargo_toml-af056b73469e3e52.rlib: /Users/stepbystep/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_toml-0.15.3/src/cargo_toml.rs /Users/stepbystep/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_toml-0.15.3/src/afs.rs /Users/stepbystep/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_toml-0.15.3/src/error.rs /Users/stepbystep/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_toml-0.15.3/src/inheritable.rs
+
+/Users/stepbystep/Documents/m3u8-tool/frontend/src-tauri/target/debug/deps/cargo_toml-af056b73469e3e52.d: /Users/stepbystep/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_toml-0.15.3/src/cargo_toml.rs /Users/stepbystep/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_toml-0.15.3/src/afs.rs /Users/stepbystep/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_toml-0.15.3/src/error.rs /Users/stepbystep/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_toml-0.15.3/src/inheritable.rs
+
+/Users/stepbystep/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_toml-0.15.3/src/cargo_toml.rs:
+/Users/stepbystep/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_toml-0.15.3/src/afs.rs:
+/Users/stepbystep/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_toml-0.15.3/src/error.rs:
+/Users/stepbystep/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_toml-0.15.3/src/inheritable.rs:

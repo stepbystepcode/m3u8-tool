@@ -1,0 +1,10 @@
+/Users/stepbystep/Documents/m3u8-tool/frontend/src-tauri/target/debug/deps/libtauri_build-7919cc65661eeadb.rmeta: /Users/stepbystep/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tauri-build-1.5.1/src/lib.rs /Users/stepbystep/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tauri-build-1.5.1/src/allowlist.rs /Users/stepbystep/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tauri-build-1.5.1/src/static_vcruntime.rs /Users/stepbystep/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tauri-build-1.5.1/src/window-app-manifest.xml
+
+/Users/stepbystep/Documents/m3u8-tool/frontend/src-tauri/target/debug/deps/libtauri_build-7919cc65661eeadb.rlib: /Users/stepbystep/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tauri-build-1.5.1/src/lib.rs /Users/stepbystep/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tauri-build-1.5.1/src/allowlist.rs /Users/stepbystep/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tauri-build-1.5.1/src/static_vcruntime.rs /Users/stepbystep/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tauri-build-1.5.1/src/window-app-manifest.xml
+
+/Users/stepbystep/Documents/m3u8-tool/frontend/src-tauri/target/debug/deps/tauri_build-7919cc65661eeadb.d: /Users/stepbystep/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tauri-build-1.5.1/src/lib.rs /Users/stepbystep/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tauri-build-1.5.1/src/allowlist.rs /Users/stepbystep/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tauri-build-1.5.1/src/static_vcruntime.rs /Users/stepbystep/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tauri-build-1.5.1/src/window-app-manifest.xml
+
+/Users/stepbystep/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tauri-build-1.5.1/src/lib.rs:
+/Users/stepbystep/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tauri-build-1.5.1/src/allowlist.rs:
+/Users/stepbystep/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tauri-build-1.5.1/src/static_vcruntime.rs:
+/Users/stepbystep/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tauri-build-1.5.1/src/window-app-manifest.xml:

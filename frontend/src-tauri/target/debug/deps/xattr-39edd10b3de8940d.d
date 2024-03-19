@@ -1,0 +1,11 @@
+/Users/stepbystep/Documents/m3u8-tool/frontend/src-tauri/target/debug/deps/libxattr-39edd10b3de8940d.rmeta: /Users/stepbystep/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xattr-1.3.1/src/lib.rs /Users/stepbystep/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xattr-1.3.1/src/error.rs /Users/stepbystep/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xattr-1.3.1/src/sys/mod.rs /Users/stepbystep/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xattr-1.3.1/src/util.rs /Users/stepbystep/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xattr-1.3.1/src/sys/linux_macos.rs
+
+/Users/stepbystep/Documents/m3u8-tool/frontend/src-tauri/target/debug/deps/libxattr-39edd10b3de8940d.rlib: /Users/stepbystep/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xattr-1.3.1/src/lib.rs /Users/stepbystep/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xattr-1.3.1/src/error.rs /Users/stepbystep/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xattr-1.3.1/src/sys/mod.rs /Users/stepbystep/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xattr-1.3.1/src/util.rs /Users/stepbystep/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xattr-1.3.1/src/sys/linux_macos.rs
+
+/Users/stepbystep/Documents/m3u8-tool/frontend/src-tauri/target/debug/deps/xattr-39edd10b3de8940d.d: /Users/stepbystep/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xattr-1.3.1/src/lib.rs /Users/stepbystep/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xattr-1.3.1/src/error.rs /Users/stepbystep/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xattr-1.3.1/src/sys/mod.rs /Users/stepbystep/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xattr-1.3.1/src/util.rs /Users/stepbystep/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xattr-1.3.1/src/sys/linux_macos.rs
+
+/Users/stepbystep/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xattr-1.3.1/src/lib.rs:
+/Users/stepbystep/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xattr-1.3.1/src/error.rs:
+/Users/stepbystep/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xattr-1.3.1/src/sys/mod.rs:
+/Users/stepbystep/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xattr-1.3.1/src/util.rs:
+/Users/stepbystep/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xattr-1.3.1/src/sys/linux_macos.rs:
