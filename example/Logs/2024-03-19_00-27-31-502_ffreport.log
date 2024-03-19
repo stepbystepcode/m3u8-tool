@@ -1,0 +1,32 @@
+ffmpeg started on 2024-03-19 at 00:28:23
+Report written to "D:/Software/Windows/xiaoetong/congaokao/Logs/2024-03-19_00-27-31-502_ffreport.log"
+Command line:
+"D:\\Software\\Windows\\xiaoetong\\congaokao\\ffmpeg.exe" -loglevel warning -i "concat:T0000.ts|T0001.ts|T0002.ts|T0003.ts|T0004.ts|T0005.ts|T0006.ts|T0007.ts|T0008.ts|T0009.ts|T0010.ts|T0011.ts|T0012.ts|T0013.ts|T0014.ts|T0015.ts|T0016.ts|T0017.ts|T0018.ts|T0019.ts|T0020.ts|T0021.ts|T0022.ts|" -map "0:v?" -map "0:a?" -map "0:s?" -metadata "date=2024-03-19T00:28:23.5789415+08:00" -metadata "encoding_tool=" -metadata "title=" -metadata "copyright=" -metadata "comment=" -metadata:s:a:0 "handler_name=" -metadata:s:a:0 "handler=" -c copy -y -bsf:a aac_adtstoasc "C:\\\xd0\xa1\xb6\xec\xcd\xa8\xb5\xea\xc6\xcc\xd7\xca\xd4\xb4\xcf\xc2\xd4\xd8\\applbv2gfct5909\\\xb4\xf3\xc4\xa3\xd0\xcd\xb7\xa2\xd5\xb9\xd3\xeb\xc4\xdc\xc1\xa6\xb3\xf5\xcc\xbd\\\xb4\xf3\xc4\xa3\xd0\xcd\xb7\xa2\xd5\xb9\xd3\xeb\xc4\xdc\xc1\xa6\xb3\xf5\xcc\xbd.mp4"
+ffmpeg version N-94813-g85386c36e3-ffmpeg-for-N_m3u8DL-CLI Copyright (c) 2000-2019 the FFmpeg developers
+  built with gcc 8.2.0 (GCC)
+  libavutil      56. 35.100 / 56. 35.100
+  libavcodec     58. 56.101 / 58. 56.101
+  libavformat    58. 32.104 / 58. 32.104
+  libavfilter     7. 58.102 /  7. 58.102
+  libavresample   4.  0.  0 /  4.  0.  0
+  libswresample   3.  6.100 /  3.  6.100
+Input #0, mpegts, from 'concat:T0000.ts|T0001.ts|T0002.ts|T0003.ts|T0004.ts|T0005.ts|T0006.ts|T0007.ts|T0008.ts|T0009.ts|T0010.ts|T0011.ts|T0012.ts|T0013.ts|T0014.ts|T0015.ts|T0016.ts|T0017.ts|T0018.ts|T0019.ts|T0020.ts|T0021.ts|T0022.ts|':
+  Duration: 01:13:40.29, start: 1.433556, bitrate: 613 kb/s
+  Program 1 
+    Metadata:
+      service_name    : Service01
+      service_provider: FFmpeg
+    Stream #0:0[0x100]: Video: h264 ([27][0][0][0] / 0x001B), yuv420p(tv, bt709, progressive), 1280x720 [SAR 1:1 DAR 16:9], 25 fps, 25 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0x101](und): Audio: aac ([15][0][0][0] / 0x000F), 44100 Hz, stereo, fltp, 130 kb/s
+Output #0, mp4, to 'C:\小鹅通店铺资源下载\applbv2gfct5909\大模型发展与能力初探\大模型发展与能力初探.mp4':
+  Metadata:
+    date            : 2024-03-19T00:28:23.5789415+08:00
+    encoder         : Lavf58.32.104
+    Stream #0:0: Video: h264 (avc1 / 0x31637661), yuv420p(tv, bt709, progressive), 1280x720 [SAR 1:1 DAR 16:9], q=2-31, 25 fps, 25 tbr, 90k tbn, 90k tbc
+    Stream #0:1(und): Audio: aac (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 130 kb/s
+Stream mapping:
+  Stream #0:0 -> #0:0 (copy)
+  Stream #0:1 -> #0:1 (copy)
+Press [q] to stop, [?] for help
+frame=20471 fps=0.0 q=-1.0 size=   57088kB time=00:13:38.82 bitrate= 571.1kbits/s speed=1.64e+03x    frame=44083 fps=44041 q=-1.0 size=  116992kB time=00:29:23.32 bitrate= 543.5kbits/s speed=1.76e+03x    frame=64301 fps=42827 q=-1.0 size=  170752kB time=00:42:52.05 bitrate= 543.8kbits/s speed=1.71e+03x    frame=88328 fps=44120 q=-1.0 size=  225024kB time=00:58:53.14 bitrate= 521.7kbits/s speed=1.76e+03x    frame=110301 fps=44084 q=-1.0 size=  281088kB time=01:13:32.04 bitrate= 521.9kbits/s speed=1.76e+03x    frame=110506 fps=43852 q=-1.0 Lsize=  285220kB time=01:13:40.26 bitrate= 528.6kbits/s speed=1.75e+03x    
+video:212803kB audio:69067kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 1.188529%

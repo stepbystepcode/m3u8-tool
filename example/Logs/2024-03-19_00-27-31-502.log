@@ -1,0 +1,21 @@
+﻿LOG 2024/03/19
+Save Path: D:\Software\Windows\xiaoetong\congaokao\Logs
+Task Start: 2024/03/19 00:27:31
+Task CommandLine: "N_m3u8DL-CLI_v3.0.2.exe"  "https://encrypt-k-vod.xet.tech/2919df88vodtranscq1252524126/b912a67c3270835015222810949/drm/v.f421220.m3u8?sign=3814a4a4b69154076e0ad2ad7d5d5673&t=65f91424&us=tTtEPLhwGR" --enableDelAfterDone --workDir "C:\小鹅通店铺资源下载\applbv2gfct5909\大模型发展与能力初探" --saveName "大模型发展与能力初探" --maxThreads "200" --minThreads "20" 
+
+00:27:31.537 / (NORMAL) Start Parsing https://encrypt-k-vod.xet.tech/2919df88vodtranscq1252524126/b912a67c3270835015222810949/drm/v.f421220.m3u8?sign=3814a4a4b69154076e0ad2ad7d5d5673&t=65f91424&us=tTtEPLhwGR
+00:27:32.506 / (NORMAL) Downloading M3u8 Key... https://app.xiaoe-tech.com/get_video_key.php?edk=CiAszyam94wGiEIh1QKwQKyL2hkceSbE2wqgRhxFTY%2FFXxCO08TAChiaoOvUBCokYjRhNjFiNTgtMmVhNy00OWYxLTgwZGMtZTE0NTIyODc5YWIy&fileId=3270835015222810949&keySource=VodBuildInKMS
+00:27:32.865 / (NORMAL) Writing Json: [meta.json]
+00:27:33.067 / (NORMAL) Start Downloading
+00:27:33.330 / (NORMAL) Reading File Info...
+00:27:33.505 / (NORMAL) PID 0x100: Video h264, yuv420p(tv, bt709, progressive), 1280x720 [SAR 1:1 DAR 16:9], 25 fps, 25 tbr, 90k tbn, 50 tbc
+00:27:33.518 / (NORMAL) PID 0x101: Audio aac, 44100 Hz, stereo, fltp, 155 kb/s
+00:28:22.643 / (NORMAL) Start Merging...
+00:28:22.828 / (NORMAL) Segs Count > 1800, Partial Merging...
+00:28:26.158 / (NORMAL) Result in [ffreport.log]
+00:28:26.176 / (NORMAL) Task Done
+
+Task End: 2024/03/19 00:28:26
+File: C:\小鹅通店铺资源下载\applbv2gfct5909\大模型发展与能力初探\大模型发展与能力初探.mp4
+
+
